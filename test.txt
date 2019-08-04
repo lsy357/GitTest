@@ -4,3 +4,7 @@ first modification
 
 gogogo!
 
+checkout -- test
+
+this line is added on dev branch.
+another test for --amend
