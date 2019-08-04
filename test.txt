@@ -9,4 +9,4 @@ checkout -- test
 this line is added on dev branch.
 another test for --amend
 
-add a new feature.
+add a new feature
